@@ -122,6 +122,6 @@ This project is licensed under the MIT License.
 ## 👥 Contributors
 
 -   **Hillary Onyango** -- Project Implementation & Report
--   Supervisors / Acknowledgements (if any)
+-  
 
 ------------------------------------------------------------------------
